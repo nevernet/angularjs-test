@@ -1,0 +1,4 @@
+angularjs-test
+==============
+
+learning angularjs
